@@ -1,4 +1,4 @@
-
+#Stage 3
 class Player
   def play_turn(warrior)
     @health = warrior.health unless @health
